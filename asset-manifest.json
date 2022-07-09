@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Bootstrap-Add-Your-Tutorial/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactJS-Bootstrap-Add-Your-Tutorial/static/js/main.67b2b10a.js",
+    "index.html": "/ReactJS-Bootstrap-Add-Your-Tutorial/index.html",
+    "main.e6c13ad2.css.map": "/ReactJS-Bootstrap-Add-Your-Tutorial/static/css/main.e6c13ad2.css.map",
+    "main.67b2b10a.js.map": "/ReactJS-Bootstrap-Add-Your-Tutorial/static/js/main.67b2b10a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.67b2b10a.js"
+  ]
+}
